@@ -1,84 +1,94 @@
-                                         ###Calculadora Simples em Java 🧮💻
+# 🧮💻 Calculadora Simples em Java  
 
-Este projeto é um programa simples em Java que permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. O programa oferece uma interface interativa via console, onde o usuário pode escolher a operação desejada e inserir os valores para cálculo.
+Este projeto é um programa simples em Java que permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. O programa oferece uma interface interativa via console, onde o usuário pode escolher a operação desejada e inserir os valores para cálculo.  
 
+---
 
-📌 Funcionalidades
+## 📌 Funcionalidades  
 
-✅ Adição: Soma dois números.
+✅ **Adição**: Soma dois números.  
 
-✅ Subtração: Subtrai o segundo número do primeiro.
+✅ **Subtração**: Subtrai o segundo número do primeiro.  
 
-✅ Multiplicação: Multiplica dois números.
+✅ **Multiplicação**: Multiplica dois números.  
 
-✅ Divisão: Divide o primeiro número pelo segundo (com verificação de divisão por zero).
+✅ **Divisão**: Divide o primeiro número pelo segundo (com verificação de divisão por zero).  
 
-✅ Interface Simples: Interação via console com instruções claras.
+✅ **Interface Simples**: Interação via console com instruções claras.  
 
-✅ Exibição de Resultados: Mostra o valor calculado de forma legível.
+✅ **Exibição de Resultados**: Mostra o valor calculado de forma legível.  
 
+---
 
-⚙️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas  
 
-🔹 Java (JDK X.X)
+🔹 **Java (JDK X.X)**  
 
-🔹 Scanner (java.util.Scanner) para entrada de dados.
+🔹 **Scanner (java.util.Scanner)** para entrada de dados.  
 
+---
 
-🚀 Como Executar o Projeto
-Clone o repositório:
+## 🚀 Como Executar o Projeto  
 
-git clone https://github.com/seu-usuario/calculadora-simples-java.git
+1. Clone o repositório:  
 
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-simples-java.git
+   cd calculadora-simples-java
 Abra o projeto em uma IDE (IntelliJ, Eclipse, VS Code).
 
+Compile e execute o código:
 
-Compile e execute o arquivo CalculadoraSimples.java.
+javac CalculadoraSimples.java
 
+java CalculadoraSimples
 
 Siga as instruções no terminal para interagir com o sistema.
 
 
 📷 Exemplo de Execução
-Entrada:
+
+Digite o primeiro número: 10  
+
+Digite o segundo número: 5  
 
 
+Escolha a operação:  
 
-Digite o primeiro numero: 10
+1) Adição (+)  
 
-Digite o segundo numero: 5
+2) Subtração (-)  
 
-Escolha a operacao:
+3) Multiplicação (*)  
 
+4) Divisão (/)  
 
-1) Adicao (+)
+1  
 
-2) Subtracao (-)
+Saída:  
 
-3) Multiplicacao (*)
-
-4) Divisão (/)
-
-1
-Saída:
-
-O resultado da operacao e: 15.0
+O resultado da operação é: 15.0  
 
 📌 Melhorias Futuras
 
 🔹 Adicionar suporte para mais operações: Incluir operações como potência, raiz quadrada e módulo.
 
+
 🔹 Implementar uma interface gráfica: Usar Java Swing ou JavaFX para uma experiência mais amigável.
+
 
 🔹 Adicionar persistência de dados: Salvar histórico de operações em um arquivo ou banco de dados.
 
+
 🔹 Validações de entrada: Evitar entradas inválidas, como valores não numéricos.
 
+
 🔹 Operações em massa: Permitir a realização de múltiplas operações de uma só vez.
+
 
 🔹 Suporte para números complexos: Adicionar funcionalidades para cálculos com números complexos.
 
 
+🔗 Autor:  📌 João Santos
 
-🔗 Autor
-João Santos
+
